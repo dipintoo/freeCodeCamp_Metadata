@@ -35,7 +35,7 @@ Setelah berhasil menyelesaikan 5 project sertifikasi Back End Development and AP
 [***[2] Request Header Parser Microservice***](https://github.com/dipintoo/freeCodeCamp_Headers-Parser)  
 [***[3] URL Shortener Microservice***](https://github.com/dipintoo/freeCodeCamp_Url-Shortner)  
 [***[4] Exercise Tracker***](https://github.com/dipintoo/freeCodeCamp_Exercise-Tracker)  
-[***[5] Exercise Tracker***](https://github.com/dipintoo/freeCodeCamp_Metadata)
+[***[5] Metadata Microservice***](https://github.com/dipintoo/freeCodeCamp_Metadata)
 
 kamu bisa langsung klaim sertifikatnya ke freeCodeCamp. Jika berhasil, kamu akan mendapatkan sertifikat seperti ini atas **Nama Kamu**.
 
