@@ -33,3 +33,5 @@ Jika semua berjalan lancar kamu akan mendapatkan sertifikat seperti ini atas Nam
 
 Selamat ya kamu 🏆🏅
 
+![Sertifikat kamu](https://github.com/dipintoo/freeCodeCamp_Portfolio-Page/blob/main/public/Sertifikat.png)
+
