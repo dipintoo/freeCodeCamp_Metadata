@@ -31,11 +31,11 @@ Kamu bisa melakukan testing langsung di [Metadata Microservice](https://www.free
 
 Setelah berhasil menyelesaikan 5 project sertifikasi Back End Development and APIs, diantaranya:
 
-[***[1] Timestamp Microservice***](https://github.com/dipintoo/freeCodeCamp_Timestamp) - [Live Demo](https://freecodecamptimestamp-microservice.dipintoo.repl.co/)  
-[***[2] Request Header Parser Microservice***](https://github.com/dipintoo/freeCodeCamp_Headers-Parser) - [Live Demo](https://freecodecampheaders-parser-microservice.dipintoo.repl.co/)  
-[***[3] URL Shortener Microservice***](https://github.com/dipintoo/freeCodeCamp_Url-Shortner) - [Live Demo](https://freecodecampurl-shortner.dipintoo.repl.co/)  
-[***[4] Exercise Tracker***](https://github.com/dipintoo/freeCodeCamp_Exercise-Tracker) - [Live Demo](https://freecodecampexercise-tracker.dipintoo.repl.co/)  
-[***[5] File Metadata Microservice***](https://github.com/dipintoo/freeCodeCamp_Metadata) - [Live Demo](https://freecodecampmetadata-microservice.dipintoo.repl.co/)
+[***[1] Timestamp Microservice***](https://github.com/dipintoo/freeCodeCamp_Timestamp) - [🔴 Live Demo](https://freecodecamptimestamp-microservice.dipintoo.repl.co/)  
+[***[2] Request Header Parser Microservice***](https://github.com/dipintoo/freeCodeCamp_Headers-Parser) - [🔴 Live Demo](https://freecodecampheaders-parser-microservice.dipintoo.repl.co/)  
+[***[3] URL Shortener Microservice***](https://github.com/dipintoo/freeCodeCamp_Url-Shortner) - [🔴 Live Demo](https://freecodecampurl-shortner.dipintoo.repl.co/)  
+[***[4] Exercise Tracker***](https://github.com/dipintoo/freeCodeCamp_Exercise-Tracker) - [🔴 Live Demo](https://freecodecampexercise-tracker.dipintoo.repl.co/)  
+[***[5] File Metadata Microservice***](https://github.com/dipintoo/freeCodeCamp_Metadata) - [🔴 Live Demo](https://freecodecampmetadata-microservice.dipintoo.repl.co/)
 
 kamu bisa langsung klaim sertifikatnya ke freeCodeCamp. Jika berhasil, kamu akan mendapatkan sertifikat seperti ini atas **Nama Kamu**.
 
